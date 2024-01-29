@@ -2,7 +2,7 @@
 # Jekyll Config
 # --------------------
 url: "https://natalieob.github.io"
-baseurl: "/portfolio"
+baseurl: ""
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
