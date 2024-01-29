@@ -1,7 +1,7 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: "/Portfolio"
+baseurl: "/Portfolio/"
 url: ""
 permalink: pretty
 markdown: kramdown
