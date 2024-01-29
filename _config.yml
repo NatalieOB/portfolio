@@ -1,8 +1,8 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: "/portfolio/"
 url: "https://natalieob.github.io"
+baseurl: "/portfolio"
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
@@ -184,5 +184,5 @@ footer:
 bottom:
   enable_bottom: false # show/hide the entire bottom (below the footer)
   enable_bottom_menu: false # if enabled, the bottom menu can be edited in `_data/menu.yml`
-  copyright_text: "© 2021 Zerostatic Themes"
+  copyright_text: "© 2024 Zerostatic Themes"
   show_rss_icon: true
