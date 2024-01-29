@@ -1,7 +1,7 @@
 # -------------------
 # Jekyll Config
 # --------------------
-url: "https://natalieob.github.io"
+url: ""
 baseurl: ""
 permalink: pretty
 markdown: kramdown
