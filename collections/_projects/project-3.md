@@ -21,6 +21,6 @@ Turpis egestas sed tempus urna et pharetra pharetra massa massa. Euismod nisi po
 
 Leo duis ut diam quam nulla porttitor massa id neque. Faucibus in ornare quam viverra orci sagittis eu. Congue mauris rhoncus aenean vel. Interdum consectetur libero id faucibus nisl tincidunt eget. Arcu felis bibendum ut tristique et egestas quis ipsum suspendisse. Massa placerat duis ultricies lacus sed.
 
-[CFN Mid Year Outlook 2022 PDF](/assets/pdf/CFN_Mid_Year_Outlook.pdf)
+[CFN Mid Year Outlook 2022 PDF](portfolio/assets/pdf/CFN_Mid_Year_Outlook.pdf)
 
-[CFN Mid Year Outlook 2023 PDF](/assets/pdf/MidyearOutlook_2023.pdf)
+[CFN Mid Year Outlook 2023 PDF](portfolio/assets/pdf/MidyearOutlook_2023.pdf)

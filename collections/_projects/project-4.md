@@ -21,4 +21,4 @@ Turpis egestas sed tempus urna et pharetra pharetra massa massa. Euismod nisi po
 
 Leo duis ut diam quam nulla porttitor massa id neque. Faucibus in ornare quam viverra orci sagittis eu. Congue mauris rhoncus aenean vel. Interdum consectetur libero id faucibus nisl tincidunt eget. Arcu felis bibendum ut tristique et egestas quis ipsum suspendisse. Massa placerat duis ultricies lacus sed.
 
-[HNW Giving Tuesday Philanthropy PDF](/assets/pdf/HNW_Giving_Tuesday_Philanthropy.pdf)
+[HNW Giving Tuesday Philanthropy PDF](portfolio/assets/pdf/HNW_Giving_Tuesday_Philanthropy.pdf)
