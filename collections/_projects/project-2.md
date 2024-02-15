@@ -1,24 +1,26 @@
 ---
 layout: project-right
-title: "Brutalist Office Building"
-description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
-date: 2018-11-03T10:20:00Z
+title: "Corporate Social Responsibility Report"
+description: "Lorem ipsum dolor sit amet."
+date: 2018-12-20
 weight: 1
-thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
-image: "/assets/images/gen/projects/project-1-2.webp"
-categories: ["Development"]
-client: "Dubai Star"
-role: "Building Designer"
+thumbnail: "/assets/images/gen/projects/project-2-1-thumbnail.webp"
+image: "/assets/images/gen/projects/project-2-1.webp"
+categories: ["Marketing"]
+client: "Name of client"
+role: "Senior Graphic Designer"
 gallery:
-  - image: "/assets/images/gen/projects/project-1-1.webp"
-    caption: "<strong>Above:</strong> North easterly aspect showing curved design"
-  - image: "/assets/images/gen/projects/project-1-2.webp"
-    caption: "<strong>Above:</strong> Rear offices square design in contrast"
+  - image: "/assets/images/gen/projects/project-2-1.webp"
+    caption: "<strong>Above:</strong> Lorem ipsum dolor sit amet"
+  - image: "/assets/images/gen/projects/project-2-2.webp"
+    caption: "<strong>Above:</strong> Lorem ipsum dolor sit amet"
 gallery_limit: 2
 ---
 
-Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Et pharetra pharetra massa massa ultricies mi quis. Porta lorem mollis aliquam ut porttitor leo a diam. Aliquam sem fringilla ut morbi.
 
-The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
+Turpis egestas sed tempus urna et pharetra pharetra massa massa. Euismod nisi porta lorem mollis aliquam ut porttitor leo.
 
-Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication. Ancient urban architecture was preoccupied with building religious structures and buildings symbolizing the political power of rulers until Greek and Roman architecture shifted focus to civic virtues.
+Leo duis ut diam quam nulla porttitor massa id neque. Faucibus in ornare quam viverra orci sagittis eu. Congue mauris rhoncus aenean vel. Interdum consectetur libero id faucibus nisl tincidunt eget. Arcu felis bibendum ut tristique et egestas quis ipsum suspendisse. Massa placerat duis ultricies lacus sed.
+
+[Corporate Social Responsibility Report PDF](/assets/pdf/Corporate_Social_Responsibility_Report.pdf)

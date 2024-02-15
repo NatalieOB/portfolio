@@ -4,8 +4,8 @@ title: Contact
 permalink: "/contact/"
 ---
 
-## Contact Info
+## How to reach me
 
 - **Email:** <a href="mailto:example@example.com">example@example.com</a>
-- **Phone:** +61 0417 123 XXX
-- **Address:** Clem Jones Promenade, South Brisbane QLD 4101
+- **Phone:** (617) 555-5555
+- **Address:** 465 Huntington Ave, Boston, MA 02115

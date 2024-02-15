@@ -68,7 +68,7 @@ PLATFORMS
   x86_64-darwin-22
 
 DEPENDENCIES
-  jekyll (~>  3.9.3)
+  jekyll (~> 3.9.3)
   jekyll-environment-variables
   jekyll-paginate
   webrick (~> 1.7)

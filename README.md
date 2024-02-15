@@ -13,7 +13,7 @@ Jekyll Curate is a premium portfolio theme for Jekyll.
 
 ## Install
 
-### Install Jekll
+### Install Jekyll
 
 Make sure you have Ruby & Jekyll installed - For a step-by-step guide, read Jekyll docs [installation](https://jekyllrb.com/docs/installation/)
 

@@ -26116,4 +26116,18 @@ readers do not read off random characters that represent icons */
   text-decoration-color: var(--color-base-bg-3);
 }
 
+.resume {
+  text-decoration: underline;
+}
+
+ul.resume {
+  list-style-type: circle;
+  padding-left: 2em;
+}
+
+ul li {
+  padding-left: 1em;
+  padding-top: 0.5em;
+}
+
 /*# sourceMappingURL=main.css.map */

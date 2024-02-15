@@ -1,25 +1,28 @@
 ---
-layout: project # alternative layouts: project, project-left, project-right, project-top
-title: "Water Works Revitalisation"
-description: "Breathing new life into old industrial estates"
+layout: project-right # alternative layouts: project, project-left, project-right, project-top
+title: "Commonwealth Business Review"
+description: "Lorem ipsum dolor sit amet."
 date: 2018-12-20
 weight: 3
-thumbnail: "/assets/images/gen/projects/project-2-1-thumbnail.webp"
-image: "/assets/images/gen/projects/project-2-1.webp"
-categories: ["Development"]
-client: "Brisbane City Council"
-role: "Building Designer"
+thumbnail: "/assets/images/gen/projects/project-1-2-thumbnail.webp"
+image: "/assets/images/gen/projects/project-1-2.webp"
+categories: ["Marketing"]
+client: "Name of client"
+role: "Senior Graphic Designer"
 gallery:
-  - image: "/assets/images/gen/projects/project-2-1.webp"
-  - image: "/assets/images/gen/projects/project-2-2.webp"
-  - image: "/assets/images/gen/projects/project-2-5.webp"
-  - image: "/assets/images/gen/projects/project-2-4.webp"
-  - image: "/assets/images/gen/projects/project-2-3.webp"
-  - image: "/assets/images/gen/projects/project-2-6.webp"
+  - image: "/assets/images/gen/projects/project-1-1.webp"
+  - image: "/assets/images/gen/projects/project-1-2.webp"
+  - image: "/assets/images/gen/projects/project-1-3.webp"
+  - image: "/assets/images/gen/projects/project-1-4.webp"
+  - image: "/assets/images/gen/projects/project-1-5.webp"
 ---
 
-Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Et pharetra pharetra massa massa ultricies mi quis. Porta lorem mollis aliquam ut porttitor leo a diam. Aliquam sem fringilla ut morbi.
 
-The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
+Turpis egestas sed tempus urna et pharetra pharetra massa massa. Euismod nisi porta lorem mollis aliquam ut porttitor leo.
 
-Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication. Ancient urban architecture was preoccupied with building religious structures and buildings symbolizing the political power of rulers until Greek and Roman architecture shifted focus to civic virtues.
+Leo duis ut diam quam nulla porttitor massa id neque. Faucibus in ornare quam viverra orci sagittis eu. Congue mauris rhoncus aenean vel. Interdum consectetur libero id faucibus nisl tincidunt eget. Arcu felis bibendum ut tristique et egestas quis ipsum suspendisse. Massa placerat duis ultricies lacus sed.
+
+[Commonwealth Business Review 2021 PDF](/assets/pdf/CBR_April_2021_REVISED_4.6.pdf)
+
+[Commonwealth Business Review 2022 PDF](/assets/pdf/CBR_Business_Review.pdf)
