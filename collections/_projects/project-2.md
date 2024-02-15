@@ -23,4 +23,4 @@ Turpis egestas sed tempus urna et pharetra pharetra massa massa. Euismod nisi po
 
 Leo duis ut diam quam nulla porttitor massa id neque. Faucibus in ornare quam viverra orci sagittis eu. Congue mauris rhoncus aenean vel. Interdum consectetur libero id faucibus nisl tincidunt eget. Arcu felis bibendum ut tristique et egestas quis ipsum suspendisse. Massa placerat duis ultricies lacus sed.
 
-[Corporate Social Responsibility Report PDF](portfolio/assets/pdf/Corporate_Social_Responsibility_Report.pdf)
+[Corporate Social Responsibility Report PDF](/portfolio/assets/pdf/Corporate_Social_Responsibility_Report.pdf)

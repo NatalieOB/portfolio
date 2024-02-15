@@ -23,6 +23,6 @@ Turpis egestas sed tempus urna et pharetra pharetra massa massa. Euismod nisi po
 
 Leo duis ut diam quam nulla porttitor massa id neque. Faucibus in ornare quam viverra orci sagittis eu. Congue mauris rhoncus aenean vel. Interdum consectetur libero id faucibus nisl tincidunt eget. Arcu felis bibendum ut tristique et egestas quis ipsum suspendisse. Massa placerat duis ultricies lacus sed.
 
-[Commonwealth Business Review 2021 PDF](portfolio/assets/pdf/CBR_April_2021_REVISED_4.6.pdf)
+[Commonwealth Business Review 2021 PDF](/portfolio/assets/pdf/CBR_April_2021_REVISED_4.6.pdf)
 
-[Commonwealth Business Review 2022 PDF](portfolio/assets/pdf/CBR_Business_Review.pdf)
+[Commonwealth Business Review 2022 PDF](/portfolio/assets/pdf/CBR_Business_Review.pdf)
