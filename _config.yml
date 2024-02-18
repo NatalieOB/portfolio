@@ -177,7 +177,7 @@ footer:
   enable_menu_footer_primary: true
   enable_menu_footer_secondary: true
   enable_menu_footer_tertiary: false
-  footer_primary_menu_title: "My Work"
+  footer_primary_menu_title: "Projects"
   footer_secondary_menu_title: "Natalie Barlatier"
   # footer_tertiary_menu_title: "Other"
 
