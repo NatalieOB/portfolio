@@ -2,11 +2,11 @@
 layout: project-right
 title: "Midyear Outlook"
 description: "Lorem ipsum dolor sit amet."
-date: 2018-12-20
+date: 2022-12-20
 weight: 2
 thumbnail: "/assets/images/gen/projects/project-3-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-3-1.webp"
-client: "Name of client"
+client: "Commonwealth Financial Network Existing Advisors, Prospective Advisors"
 categories: ["Marketing"]
 role: "Senior Graphic Designer"
 gallery:
@@ -15,12 +15,19 @@ gallery:
   - image: "/assets/images/gen/projects/project-3-7.webp"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Et pharetra pharetra massa massa ultricies mi quis. Porta lorem mollis aliquam ut porttitor leo a diam. Aliquam sem fringilla ut morbi.
+<strong>The Ask:</strong> Produced the Commonwealth midyear outlook in its first infographic format, with supporting 30-second videos for social. The goal was also to include a client-facing version of the outlook. Social posts were formatted for the accompanying videos, additionally organic social copy, and CTAs drove traffic to the outlook on public site, IMO, and COMMunity Link web pages.
 
-Turpis egestas sed tempus urna et pharetra pharetra massa massa. Euismod nisi porta lorem mollis aliquam ut porttitor leo.
+<strong>The Process:</strong> Very typically, this industry-leading financial firm also required supporting data visualizations and infographics. I made sure to keep this simple, clean and on-point. It was critical to work with the creative director, Subject Matter Experts, and the project manager to break down information and draw attention to insights and processes and bring data and key numbers to life with a simple and clean graphic style.
 
-Leo duis ut diam quam nulla porttitor massa id neque. Faucibus in ornare quam viverra orci sagittis eu. Congue mauris rhoncus aenean vel. Interdum consectetur libero id faucibus nisl tincidunt eget. Arcu felis bibendum ut tristique et egestas quis ipsum suspendisse. Massa placerat duis ultricies lacus sed.
+<strong>The Solution:</strong> The project was met with a hard deadline. With it being the first material done without having to be printed it changed the way it was produced in its future deliverables. 
 
-[CFN Mid Year Outlook 2022 PDF](/portfolio/assets/pdf/CFN_Mid_Year_Outlook.pdf)
+<strong>Skillset highlight</strong>
+- Newer visual identity implementation
+- Photo retouching
+- Data visualizations and infographics
+- Digital design (advertising/social media)
+- Large-scale conference-specific graphic development and production
 
-[CFN Mid Year Outlook 2023 PDF](/portfolio/assets/pdf/MidyearOutlook_2023.pdf)
+[View the CFN Mid Year Outlook 2022 PDF](/portfolio/assets/pdf/CFN_Mid_Year_Outlook.pdf)
+
+[View the CFN Mid Year Outlook 2023 PDF](/portfolio/assets/pdf/MidyearOutlook_2023.pdf)
