@@ -1,5 +1,5 @@
 ---
-layout: project-right
+layout: project-left
 title: "Midyear Outlook"
 description: "Lorem ipsum dolor sit amet."
 date: 2022-12-20

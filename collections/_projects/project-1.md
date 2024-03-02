@@ -1,5 +1,5 @@
 ---
-layout: project-right # alternative layouts: project, project-left, project-right, project-top
+layout: project-left # alternative layouts: project, project-left, project-right, project-top
 title: "Commonwealth Business Review"
 description: ""
 date: 2022-12-20
