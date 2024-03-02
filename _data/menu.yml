@@ -9,22 +9,22 @@ main:
       - name: "Commonwealth Business Review"
         # icon: "/assets/images/icons/wireframe-7.svg"
         # icon_darkmode: "/assets/images/icons/wireframe-7-white.svg"
-        description: "Lorem ipsum"
+        description: ""
         url: /projects/project-1/
       - name: "Corporate Social Responsibility Report"
         # icon: "/assets/images/icons/wireframe-5.svg"
         # icon_darkmode: "/assets/images/icons/wireframe-5-white.svg"
-        description: "Lorem ipsum"
+        description: ""
         url: /projects/project-2/
       - name: "Midyear Outlook"
         # icon: "/assets/images/icons/wireframe-6.svg"
         # icon_darkmode: "/assets/images/icons/wireframe-6-white.svg"
-        description: "Lorem ipsum"
+        description: ""
         url: /projects/project-3/
       - name: "HNW Giving Tuesday Philanthropy"
         # icon: "/assets/images/icons/wireframe-8.svg"
         # icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
-        description: "Lorem ipsum"
+        description: ""
         url: /projects/project-4/
 # - name: Blog
 #   url: /blog/
