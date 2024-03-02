@@ -32,7 +32,7 @@ A time-tested, self-directed and driven design professional, my goal is consiste
 
 # What I do in my freetime
 
-I'm Natalie! I am a resident of Brockton, MA, a mom of two young children, a wife, and a marathon runner. My passion for running has grown from hating every minute in high school to loving the sport, running marathons regularly, and coaching younger athletes. Everything from taking runfies, laughing with run buddies, demanding my best, learning to live in the pain cave, and crossing the finish line is why I continue to lace up. Running has gotten me through some of the most challenging points in my life by instilling perseverance and emotional intelligence in me. I always say it's hard to imagine where I would be without running.
+I am a resident of Brockton, MA, a mom of two young children, a wife, and a marathon runner. My passion for running has grown from hating every minute in high school to loving the sport, running marathons regularly, and coaching younger athletes. Everything from taking runfies, laughing with run buddies, demanding my best, learning to live in the pain cave, and crossing the finish line is why I continue to lace up. Running has gotten me through some of the most challenging points in my life by instilling perseverance and emotional intelligence in me. I always say it's hard to imagine where I would be without running.
 
 As a mom, I understand the daily grind of finding time for yourself, and I sympathize with it while being realistic about finding ways to give back. In many ways, running is a part of me - ask anyone who knows me. Set yourself up for success. It all comes down to a choice.
 
