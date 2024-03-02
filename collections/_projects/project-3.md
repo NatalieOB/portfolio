@@ -1,7 +1,7 @@
 ---
 layout: project-left
 title: "Midyear Outlook"
-description: "Lorem ipsum dolor sit amet."
+description: "The Commonwealth midyear outlook project"
 date: 2022-12-20
 weight: 2
 thumbnail: "/assets/images/gen/projects/project-3-1-thumbnail.webp"
