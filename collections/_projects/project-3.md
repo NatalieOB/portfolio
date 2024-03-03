@@ -6,7 +6,7 @@ date: 2022-12-20
 weight: 2
 thumbnail: "/assets/images/gen/projects/project-3-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-3-1.webp"
-client: "Commonwealth Financial Network Existing Advisors, Prospective Advisors"
+client: "Commonwealth Existing Advisors, Prospective Advisors"
 categories: ["Marketing"]
 role: "Senior Graphic Designer"
 gallery:
@@ -21,12 +21,14 @@ gallery:
 
 <strong>The Solution:</strong> The project was met with a hard deadline. With it being the first material done without having to be printed it changed the way it was produced in its future deliverables. 
 
-<strong>Skillset highlight</strong>
-- Newer visual identity implementation
-- Photo retouching
-- Data visualizations and infographics
-- Digital design (advertising/social media)
-- Large-scale conference-specific graphic development and production
+<p class="list-heading"><strong>Skillset highlight</strong></p>
+<ul class="list">
+<li>Newer visual identity implementation</li>
+<li>Photo retouching</li>
+<li>Data visualizations and infographics</li>
+<li>Digital design (advertising/social media)</li>
+<li>Large-scale conference-specific graphic development and production</li>
+</ul>
 
 [View the CFN Mid Year Outlook 2022 PDF](/portfolio/assets/pdf/CFN_Mid_Year_Outlook.pdf)
 

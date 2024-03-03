@@ -7,7 +7,7 @@ weight: 3
 thumbnail: "/assets/images/gen/projects/project-1-2-thumbnail.webp"
 image: "/assets/images/gen/projects/project-1-2.webp"
 categories: ["Marketing"]
-client: "Commonwealth Financial Network Existing Advisors, Prospective Advisors"
+client: "Commonwealth Existing Advisors, Prospective Advisors"
 role: "Senior Graphic Designer"
 gallery:
   - image: "/assets/images/gen/projects/project-1-1.webp"
@@ -29,12 +29,14 @@ It allowed for this bold new system to be defined as a striking combination of v
 The image search was unique to our way of designing data visuals and incorporating photography that was more customized to our culture and community, and most importantly of our advisors. 
 
 <strong>Skillset highlight</strong>
-In each case, either through my own expertise, or through art direction, a fair amount of expert photo retouching was often required, for fit, scale and color, as well as removing unnecessary distractions.
+<p>In each case, either through my own expertise, or through art direction, a fair amount of expert photo retouching was often required, for fit, scale and color, as well as removing unnecessary distractions.</p>
 
-<strong>Other</strong>
-- Visual identity implementation
-- Data visualization problem solving
-- Project management
+<p class="list-heading"><strong>Other</strong></p>
+<ul class="list">
+<li>Visual identity implementation</li>
+<li>Data visualization problem solving</li>
+<li>Project management</li>
+</ul>
 
 [View the Commonwealth Business Review 2021 PDF](/portfolio/assets/pdf/CBR_April_2021_REVISED_4.6.pdf)
 

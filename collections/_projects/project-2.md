@@ -7,7 +7,7 @@ weight: 1
 thumbnail: "/assets/images/gen/projects/project-2-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-2-1.webp"
 categories: ["Marketing"]
-client: "Commonwealth Financial Network Existing Advisors, Prospective Advisors, Public"
+client: "Commonwealth Existing Advisors, Prospective Advisors, Public"
 role: "Senior Graphic Designer"
 gallery:
   - image: "/assets/images/gen/projects/project-2-1.webp"
@@ -23,12 +23,14 @@ gallery_limit: 2
 
 <strong>The Solution:</strong> A design solution was created that was able to span a digital PDF report and a web page. All touchpoints incorporated design elements exclusive to the report while reinforcing the Commonwealth visual branding.
 
-<strong>Skillset highlight</strong>
-- Newer visual identity implementation
-- Photo retouching
-- Data visualizations and infographics
-- Digital design (advertising/social media)
-- Project management
-- Junior staff mentoring
+<p class="list-heading"><strong>Skillset highlight</strong></p>
+<ul class="list">
+<li>Newer visual identity implementation</li>
+<li>Photo retouching</li>
+<li>Data visualizations and infographics</li>
+<li>Digital design (advertising/social media)</li>
+<li>Project management</li>
+<li>Junior staff mentoring</li>
+</ul>
 
 [View the Corporate Social Responsibility Report PDF](/portfolio/assets/pdf/Corporate_Social_Responsibility_Report.pdf)

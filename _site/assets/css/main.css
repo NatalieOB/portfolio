@@ -13091,7 +13091,7 @@ img {
 }
 
 .content {
-  font-size: 19px;
+  font-size: 18px;
   font-family: var(--font-family-base);
   color: var(--color-base-text-2);
 }
@@ -26128,6 +26128,19 @@ ul.resume {
 ul li {
   padding-left: 1em;
   padding-top: 0.5em;
+}
+
+.content .list-heading {
+  margin-bottom: 0.25em;
+}
+
+.content .list {
+  margin-top: 0.25em;
+  margin-bottom: 2em;
+}
+
+.project-date {
+  margin-top: 2.5em;
 }
 
 /*# sourceMappingURL=main.css.map */
