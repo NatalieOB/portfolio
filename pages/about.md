@@ -13,16 +13,18 @@ I've been deep into exploring the intricacies of things that come together to cr
 
 A time-tested, self-directed and driven design professional, my goal is consistent, quality client service and marketing support, through solid graphic design and team mentoring. I bring years of experience in corporate brand identity development, execution and implementation.
 
-<strong>Areas of expertise:</strong>
-- Publication design
-- Presentation design
-- Photo retouching and recoloring
-- Concept development
-- Digital design
-- Iconography
-- Brand development
-- Design production
-- Event graphics
+<p class="list-heading"><strong>Areas of expertise:</strong></p>
+<ul class="list">
+<li>Publication design</li>
+<li>Presentation design</li>
+<li>Photo retouching and recoloring</li>
+<li>Concept development</li>
+<li>Digital design</li>
+<li>Iconography</li>
+<li>Brand development</li>
+<li>Design production</li>
+<li>Event graphics</li>
+</ul>
 
 <!--  {% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %} -->
 

@@ -11,7 +11,10 @@ categories: ["Marketing"]
 role: "Senior Graphic Designer"
 gallery:
   - image: "/assets/images/gen/projects/project-4-1.webp"
+  - image: "/assets/images/gen/projects/project-4-2.webp"
+  - image: "/assets/images/gen/projects/project-4-3.webp"
   - image: "/assets/images/gen/projects/project-4-4.webp"
+  - image: "/assets/images/gen/projects/project-4-5.webp"
   - image: "/assets/images/gen/projects/project-4-7.webp"
 ---
 
