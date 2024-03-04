@@ -21,7 +21,7 @@ main:
         # icon_darkmode: "/assets/images/icons/wireframe-6-white.svg"
         description: ""
         url: /projects/project-3/
-      - name: "HNW Giving Tuesday Philanthropy"
+      - name: "Social Posts"
         # icon: "/assets/images/icons/wireframe-8.svg"
         # icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
         description: ""
@@ -44,7 +44,7 @@ footer_primary:
     url: /projects/project-2/
   - name: "Midyear Outlook"
     url: /projects/project-3/
-  - name: "HNW Giving Tuesday Philanthropy"
+  - name: "Social Posts"
     url: /projects/project-4/
 
 footer_secondary:
