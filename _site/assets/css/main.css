@@ -26143,4 +26143,8 @@ ul li {
   margin-top: 2.5em;
 }
 
+.row {
+  --bs-gutter-x: 64px;
+}
+
 /*# sourceMappingURL=main.css.map */

@@ -9,9 +9,9 @@ image: ""
 
 # My story
 
-I've been deep into exploring the intricacies of things that come together to create a working whole, mechanical or otherwise. This curiosity and fascination with form, shape and composition informs my graphic design skillset: layout, details, color, and proportion.
+I've been deep into exploring the intricacies of things that come together to create a working whole, mechanical or otherwise. This curiosity and fascination with form, shape and composition informs my graphic design skillset: layout, details, color, and proportion.
 
-A time-tested, self-directed and driven design professional, my goal is consistent, quality client service and marketing support, through solid graphic design and team mentoring. I bring years of experience in corporate brand identity development,execution and implementation.
+A time-tested, self-directed and driven design professional, my goal is consistent, quality client service and marketing support, through solid graphic design and team mentoring. I bring years of experience in corporate brand identity development, execution and implementation.
 
 <strong>Areas of expertise:</strong>
 - Publication design
