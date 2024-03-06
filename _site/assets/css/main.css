@@ -13091,7 +13091,7 @@ img {
 }
 
 .content {
-  font-size: 18px;
+  font-size: 19px;
   font-family: var(--font-family-base);
   color: var(--color-base-text-2);
 }
@@ -26145,6 +26145,10 @@ ul li {
 
 .row {
   --bs-gutter-x: 64px;
+}
+
+.content {
+  font-size: 16px;
 }
 
 /*# sourceMappingURL=main.css.map */
