@@ -26,6 +26,12 @@ main:
         # icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
         description: ""
         url: /projects/project-4/
+      - name: "Freelance Projects"
+        # icon: "/assets/images/icons/wireframe-8.svg"
+        # icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
+        description: ""
+        url: /projects/project-5/
+
 # - name: Blog
 #   url: /blog/
 #   weight: 2
