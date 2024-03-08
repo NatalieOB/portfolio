@@ -3,7 +3,7 @@ layout: project-left
 title: "Social Posts"
 description: "Social Posts Projects"
 date: 2022-12-20
-weight: 4
+weight: 5
 thumbnail: "/assets/images/gen/projects/project-4-6-thumbnail.webp"
 image: "/assets/images/gen/projects/project-4-1.webp"
 client: "Commonwealth Existing Advisors, Prospective Advisors"
@@ -15,6 +15,7 @@ gallery:
   - image: "/assets/images/gen/projects/project-4-3.webp"
   - image: "/assets/images/gen/projects/project-4-4.webp"
   - image: "/assets/images/gen/projects/project-4-5.webp"
+  - image: "/assets/images/gen/projects/project-4-6.webp"
   - image: "/assets/images/gen/projects/project-4-7.webp"
 ---
 
@@ -28,7 +29,7 @@ gallery:
 <ul class="list">
 <li>Gained 3,260 followers in 2023. (+28.6%)</li>
 <li>Published 1,147 posts. (+1.3%)</li>
-<li>Gained 882,010 organic Impressions. (+4.6%)</li>
+<li>Gained 882,010 organic impressions. (+4.6%)</li>
 <li>Average Engagement Rate of 6.9% (+4.4%)</li>
 <li>We had 62,877 video views. (+362.7%)</li>
 </ul>

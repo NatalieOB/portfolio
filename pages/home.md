@@ -12,9 +12,9 @@ projects:
   sub_heading: "A good chunk of my recent experience has been primarily in the financial services industry. But I'm up for whatever you need." # "A collection of my recent work"
   limit: 4
   sort: date # date | weight
-  view_more_button_text: "" # "More Projects"
-  view_more_button_link: "" # "/projects"
-  columns: 4 # 1 | 2 | 3 | 4
+  view_more_button_text: "More Projects" # "More Projects"
+  view_more_button_link: "/projects" # "/projects"
+  columns: 2 # 1 | 2 | 3 | 4
 
 posts:
  heading: ""

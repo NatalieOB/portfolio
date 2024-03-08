@@ -3,7 +3,7 @@ layout: project-left # alternative layouts: project, project-left, project-right
 title: "Commonwealth Business Review"
 description: "Commonwealth Financial Network's flagship print publication"
 date: 2022-04-01
-weight: 3
+weight: 1
 thumbnail: "/assets/images/gen/projects/project-1-2-thumbnail.webp"
 image: "/assets/images/gen/projects/project-1-2.webp"
 categories: ["Marketing"]

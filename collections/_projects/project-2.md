@@ -3,7 +3,7 @@ layout: project-left
 title: "Corporate Social Responsibility Report"
 description: "The Corporate Social Responsibility Report project"
 date: 2023-02-01
-weight: 1
+weight: 2
 thumbnail: "/assets/images/gen/projects/project-2-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-2-1.webp"
 categories: ["Marketing"]

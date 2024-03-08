@@ -3,7 +3,7 @@ layout: project-left
 title: "Midyear Outlook"
 description: "The Commonwealth midyear outlook project"
 date: 2022-12-20
-weight: 2
+weight: 3
 thumbnail: "/assets/images/gen/projects/project-3-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-3-1.webp"
 client: "Commonwealth Existing Advisors, Prospective Advisors"

@@ -46,6 +46,8 @@ footer_primary:
     url: /projects/project-3/
   - name: "Social Posts"
     url: /projects/project-4/
+  - name: "Freelance Projects"
+    url: /projects/project-5/
 
 footer_secondary:
 # - name: Blog
