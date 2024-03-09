@@ -31,6 +31,11 @@ main:
         # icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
         description: ""
         url: /projects/project-5/
+      - name: "Lorem ipsum"
+        # icon: "/assets/images/icons/wireframe-8.svg"
+        # icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
+        description: ""
+        url: /projects/project-6/
 
 # - name: Blog
 #   url: /blog/
@@ -54,6 +59,8 @@ footer_primary:
     url: /projects/project-4/
   - name: "Freelance Projects"
     url: /projects/project-5/
+  - name: "Lorem ipsum"
+    url: /projects/project-6/
 
 footer_secondary:
 # - name: Blog
