@@ -38,4 +38,4 @@ gallery:
 <li>Nisl condimentum id venenatis a.</li>
 </ul>
 
-<!-- [View the HNW Giving Tuesday Philanthropy PDF](/portfolio/assets/pdf/HNW_Giving_Tuesday_Philanthropy.pdf) -->
+[View the Social Post PDF](/portfolio/assets/pdf/LI_social_post_images.pdf)
