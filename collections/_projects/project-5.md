@@ -22,6 +22,6 @@ gallery:
 
 <strong>The Ask:</strong> Design a logo resembling graffiti art for an accent wall in the client's studio. My client requested a black font on a pink background and a rainbow of paint splatters, like the intentional flickering of a paintbrush.
 
-<strong>The Process:</strong> I researched the greater Boston area for inspiration in my first round of sketches. While sketching several concepts of the graffiti styles that inspired me, I considered my client's persona and the customers who visited her studio. Her logo must also be impactful, memorable, and not too distracting. I created several versions utilizing spraypainted techniques for the graffiti motif.
+<strong>The Process:</strong> For inspiration, I researched the greater Boston area and delivered my first round of sketches. While sketching several concepts of the graffiti styles that inspired me, I considered my client's persona and the customers who visited her studio. It was also crucial for her logo to be impactful, memorable, and convey artistic expression. I created several versions utilizing spray paint techniques for the graffiti motif.
 
-<strong>The Solution:</strong> After several iterations, which included refining my sketches and communicating with my client, we ended up with an intentional and impactful design. Through close collaboration with my client, I developed a logo that was versatile and specific to her brand.
+<strong>The Solution:</strong> After several iterations, which included refining my sketches and communicating with the client, we ended up with an intentional and impactful design. Through close collaboration with my client, I developed a versatile logo that aligned with her brand identity.
