@@ -20,7 +20,7 @@ gallery:
   - image: "/assets/images/gen/projects/project-5-8.webp"
 ---
 
-<strong>The Ask:</strong> Design a logo that resembles graffiti art for use on an accent wall in the client's studio. My client requested a black font on a pink background and a rainbow of paint splatters, like the intentional flickering of a paintbrush.
+<strong>The Ask:</strong> Design a logo resembling graffiti art for an accent wall in the client's studio. My client requested a black font on a pink background and a rainbow of paint splatters, like the intentional flickering of a paintbrush.
 
 <strong>The Process:</strong> I researched the greater Boston area for inspiration in my first round of sketches. While sketching several concepts of the graffiti styles that inspired me, I considered my client's persona and the customers who visited her studio. Her logo must also be impactful, memorable, and not too distracting. I created several versions utilizing spraypainted techniques for the graffiti motif.
 
