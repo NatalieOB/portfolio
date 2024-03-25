@@ -3,7 +3,7 @@ layout: project-left
 title: "Social Posts"
 description: "Social Posts Projects"
 date: 2022-12-20
-weight: 5
+weight: 4
 thumbnail: "/assets/images/gen/projects/project-4-6-thumbnail.webp"
 image: "/assets/images/gen/projects/project-4-1.webp"
 client: "Commonwealth Existing Advisors, Prospective Advisors"

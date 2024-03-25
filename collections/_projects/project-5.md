@@ -6,7 +6,7 @@ date: 2023-12-31
 weight: 4
 thumbnail: "/assets/images/gen/projects/project-5-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-5-1.webp"
-client: "Lorem ipsum dolor sit ame"
+client: "FKN Fitness at LHop"
 categories: ["Marketing"]
 role: "Senior Graphic Designer"
 gallery:
@@ -15,27 +15,13 @@ gallery:
   - image: "/assets/images/gen/projects/project-5-3.webp"
   - image: "/assets/images/gen/projects/project-5-4.webp"
   - image: "/assets/images/gen/projects/project-5-5.webp"
+  - image: "/assets/images/gen/projects/project-5-6.webp"
+  - image: "/assets/images/gen/projects/project-5-7.webp"
+  - image: "/assets/images/gen/projects/project-5-8.webp"
 ---
 
-<strong>The Process:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh. Placerat vestibulum lectus mauris ultrices eros in cursus turpis massa. Nullam non nisi est sit amet facilisis magna etiam tempor. Non curabitur gravida arcu ac tortor dignissim convallis aenean et. Nisl condimentum id venenatis a. Tincidunt vitae semper quis lectus nulla at volutpat. Ipsum consequat nisl vel pretium lectus.
+<strong>The Ask:</strong> To design a logo that resembled graffiti art. It would be used as an accent wall in the clients’ workout studio. My client requested a black font on a pink background. Over it all, she asked for a rainbow of paint splatters, like the intentional flickering of a paintbrush.
 
-<strong>The Solution:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh. Placerat vestibulum lectus mauris ultrices eros in cursus turpis massa. Nullam non nisi est sit amet facilisis magna etiam tempor. Non curabitur gravida arcu ac tortor dignissim convallis aenean et. Nisl condimentum id venenatis a. Tincidunt vitae semper quis lectus nulla at volutpat. Ipsum consequat nisl vel pretium lectus.
+<strong>The Process:</strong> I researched the greater Boston area for inspiration in my first round of sketches. While sketching several concepts of the graffiti styles that inspired me, I considered my client's persona and the customers who visited her studio. Her logo must also be impactful, memorable, and not too distracting. I created several versions utilizing spraypainted techniques for the graffiti motif.
 
-<p class="list-heading"><strong>Lorem ipsum dolor</strong></p>
-<ul class="list">
-<li>Nisl condimentum id venenatis a.</li>
-<li>Nisl condimentum id venenatis a.</li>
-<li>Nisl condimentum id venenatis a.</li>
-<li>Nisl condimentum id venenatis a.</li>
-<li>Nisl condimentum id venenatis a.</li>
-</ul>
-
-<p class="list-heading"><strong>Lorem ipsum dolor</strong></p>
-<ul class="list">
-<li>Nisl condimentum id venenatis a.</li>
-<li>Nisl condimentum id venenatis a.</li>
-<li>Nisl condimentum id venenatis a.</li>
-<li>Nisl condimentum id venenatis a.</li>
-</ul>
-
-[View the Social Post PDF](/portfolio/assets/pdf/LI_social_post_images.pdf)
+<strong>The Solution:</strong> After several iterations, which included refining my sketches and communicating with my client, we ended up with an intentional and impactful design. Through close collaboration with my client, I developed a logo that was versatile and specific to her brand.

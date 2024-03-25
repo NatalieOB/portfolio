@@ -31,7 +31,7 @@ main:
         # icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
         description: ""
         url: /projects/project-5/
-      - name: "Misc Commonwealth Projects"
+      - name: "Potpourri of work"
         # icon: "/assets/images/icons/wireframe-8.svg"
         # icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
         description: ""
@@ -59,7 +59,7 @@ footer_primary:
     url: /projects/project-4/
   - name: "Freelance Projects"
     url: /projects/project-5/
-  - name: "Misc Commonwealth Projects"
+  - name: "Potpourri of work"
     url: /projects/project-6/
 
 footer_secondary:
