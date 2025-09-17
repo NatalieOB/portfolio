@@ -36,6 +36,16 @@ main:
         # icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
         description: ""
         url: /projects/project-6/
+      - name: "Commonwealth National"
+        # icon: "/assets/images/icons/wireframe-8.svg"
+        # icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
+        description: ""
+        url: /projects/project-7/
+      - name: "Accrued Interest"
+        # icon: "/assets/images/icons/wireframe-8.svg"
+        # icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
+        description: ""
+        url: /projects/project-8/
 
 # - name: Blog
 #   url: /blog/
@@ -61,6 +71,10 @@ footer_primary:
     url: /projects/project-5/
   - name: "Potpourri of work"
     url: /projects/project-6/
+  - name: "Commonwealth National"
+    url: /projects/project-7/
+  - name: "Accrued Interest"
+    url: /projects/project-8/
 
 footer_secondary:
 # - name: Blog
