@@ -32,4 +32,4 @@ gallery_limit: 5
 
 [View the Commonwealth National PDF](/portfolio/assets/pdf/National_2.pdf)
 
-[View the Commonwealth National PDF](/portfolio/assets/pdf/National_Guidelines.pdf)
+[View the National Brand Guidelines PDF](/portfolio/assets/pdf/National_Guidelines.pdf)
