@@ -2,7 +2,7 @@
 layout: project-left
 title: "Commonwealth National"
 description: "Commonwealth Financial National"
-date: 2024-04-31
+date: 2024-08-31
 weight: 1
 thumbnail: "/assets/images/gen/projects/project-7-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-7-2.webp"
