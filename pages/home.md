@@ -2,7 +2,7 @@
 layout: home
 permalink: "/"
 title: "Hello there!"
-description: "I'll keep it brief; I know you're busy. Click below to check out my stuff. Thanks!"
+description: "I'll keep it brief; I know you're busy. Click a project below to explore my work."
 meta_description: "Portfolio site for Natalie Barlatier"
 meta_title: Portfolio site for Natalie Barlatier 
 subscribe: false
