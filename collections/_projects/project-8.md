@@ -2,7 +2,7 @@
 layout: project-left
 title: "Accrued Interest"
 description: "Accrued Interest projects"
-date: 2025-04-31
+date: 2025-07-31
 weight: 1
 thumbnail: "/assets/images/gen/projects/project-8-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-8-2.webp"
