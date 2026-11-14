@@ -2,7 +2,7 @@
 layout: project-left
 title: "Greeting Card Series"
 description: ""
-date: 2026-11-14
+date: 2026-11-12
 weight: 2
 thumbnail: "/assets/images/gen/projects/project-9-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-9-1.webp"
