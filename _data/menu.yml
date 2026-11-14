@@ -80,6 +80,8 @@ footer_primary:
     url: /projects/project-7/
   - name: "Accrued Interest"
     url: /projects/project-8/
+  - name: "Greeting Card Series"
+    url: /projects/project-9/
 
 footer_secondary:
 # - name: Blog
