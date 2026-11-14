@@ -52,6 +52,6 @@ The goal is not simply to create a series of attractive greeting cards, but to d
 <li>Junior staff mentoring</li>
 </ul> -->
 
-[View Greeting Card Series 1 PDF](/portfolio/assets/pdf/Greeting_Card_Series1.pdf)
-[View Greeting Card Series 2 PDF](/portfolio/assets/pdf/Greeting_Card_Series2.pdf)
+[View Greeting Card Series 1 PDF](/portfolio/assets/pdf/Greeting_Card_Series1.pdf)<br>
+[View Greeting Card Series 2 PDF](/portfolio/assets/pdf/Greeting_Card_Series2.pdf)<br>
 [View Greeting Cards Board 3 PDF](/portfolio/assets/pdf/Greeting_Cards_Board3.pdf)
