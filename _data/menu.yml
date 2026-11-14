@@ -46,6 +46,11 @@ main:
         # icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
         description: ""
         url: /projects/project-8/
+      - name: "Gretting Card Series"
+        # icon: "/assets/images/icons/wireframe-8.svg"
+        # icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
+        description: ""
+        url: /projects/project-9/
 
 # - name: Blog
 #   url: /blog/
