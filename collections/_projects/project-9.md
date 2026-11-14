@@ -28,14 +28,16 @@ Consider how each design communicates its message through a deliberate hierarchy
 
 
 <strong>The Solution: Design Evaluation</strong> Evaluate each design against the following questions:
-<strong>Visual hierarchy:</strong> Is there a clear reading order? What captures attention first, second, and third?
-<strong>Typographic scale:</strong> Have I explored meaningful variations in type size, rather than relying on a single treatment?
-<strong>Contrast:</strong> Am I using differences in size, weight, color, and spacing to emphasize key messages and guide the viewer's eye?
-<strong>Composition:</strong> Have I explored multiple alignment strategies, layouts, and placements to create more dynamic designs?
-<strong>Negative space:</strong> Is the white space purposeful, helping establish balance, emphasis, and breathing room?
-<strong>Creative distinction:</strong> Does each card offer a unique visual expression rather than simply repeating the same layout with different messaging?
-<strong>Brand cohesion:</strong> Do the cards feel connected as a collection while maintaining their individual personalities?
-<strong>Emotional connection:</strong> Does the final design communicate warmth, celebration, and sincerity in a way that feels personal and memorable?
+<ul>
+<li><strong>Visual hierarchy:</strong> Is there a clear reading order? What captures attention first, second, and third?</li>
+<li><strong>Typographic scale:</strong> Have I explored meaningful variations in type size, rather than relying on a single treatment?</li>
+<li><strong>Contrast:</strong> Am I using differences in size, weight, color, and spacing to emphasize key messages and guide the viewer's eye?</li>
+<li><strong>Composition:</strong> Have I explored multiple alignment strategies, layouts, and placements to create more dynamic designs?</li>
+<li><strong>Negative space:</strong> Is the white space purposeful, helping establish balance, emphasis, and breathing room?</li>
+<li><strong>Creative distinction:</strong> Does each card offer a unique visual expression rather than simply repeating the same layout with different messaging?</li>
+<li><strong>Brand cohesion:</strong> Do the cards feel connected as a collection while maintaining their individual personalities?</li>
+<li><strong>Emotional connection:</strong> Does the final design communicate warmth, celebration, and sincerity in a way that feels personal and memorable?</li>
+</ul>
 
 <strong>Overall Creative Direction</strong>
 The goal is not simply to create a series of attractive greeting cards, but to develop a thoughtful, expressive, and cohesive collection where typography and composition play a meaningful role in communicating emotion
