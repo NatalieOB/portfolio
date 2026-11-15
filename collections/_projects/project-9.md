@@ -16,7 +16,7 @@ gallery:
     caption: ""
   - image: "/assets/images/gen/projects/project-9-3.webp"
     caption: ""
-gallery_limit: 2
+gallery_limit: 3
 ---
 
 <strong>The Ask: Creative Objective</strong> Design a cohesive series of general-use greeting cards that feel celebratory, heartfelt, warm, and personal. Each card should have its own distinct personality while maintaining a consistent visual connection to the overall brand.
