@@ -38,6 +38,6 @@ The image search was unique to our way of designing data visuals and incorporati
 <li>Project management</li>
 </ul>
 
-[View the Commonwealth Business Review 2021 PDF](/portfolio/assets/pdf/CBR_April_2021_REVISED_4.6.pdf)
+[View the Commonwealth Business Review PDF](/portfolio/assets/pdf/CBR_April_2021_REVISED_4.6.pdf)
 
-[View the Commonwealth Business Review 2022 PDF](/portfolio/assets/pdf/CBR_Business_Review.pdf)
+[View the Commonwealth Business Review PDF](/portfolio/assets/pdf/CBR_DIGITAL.pdf)
